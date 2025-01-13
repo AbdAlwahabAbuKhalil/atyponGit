@@ -3,6 +3,8 @@ public class Main {
         System.out.println("Hello world!");
         FibDP fibDP =new FibDP();
         System.out.println( fibDP.calculate(10));
+        Fib1 fib1=new Fib1();
+        System.out.println(fib1.calculate(8));
     }
     //This comment2
 }
